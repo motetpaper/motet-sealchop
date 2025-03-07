@@ -1,8 +1,8 @@
 #!/usr/bin/env node
 
-import { SealChopCanvas } from '../obj.js'
+import { SealChopImage } from '../obj.js'
 
-const chop = new SealChopCanvas();
+const chop = new SealChopImage();
 console.log('object: ', chop);
 console.log('json: ', ''+chop);
 
