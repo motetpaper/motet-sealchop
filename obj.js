@@ -7,7 +7,7 @@
 import { createCanvas } from 'canvas'
 import fs from 'node:fs'
 
-export class SealChopCanvas {
+export class SealChopImage {
 
   // builds default chop, returns this object
   constructor() {
