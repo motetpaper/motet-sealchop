@@ -1,0 +1,31 @@
+{
+  "name": "motet-sealchop",
+  "version": "0.5.1",
+  "description": "a Chinese seal chop image library from Node.js",
+  "keywords": [
+    "chinese",
+    "seal",
+    "chop",
+    "image",
+    "generator",
+    "maker"
+  ],
+  "homepage": "https://github.com/motetpaper/motet-sealchop#readme",
+  "bugs": {
+    "url": "https://github.com/motetpaper/motet-sealchop/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/motetpaper/motet-sealchop.git"
+  },
+  "license": "MIT",
+  "author": "MOTETPAPER",
+  "type": "module",
+  "main": "obj.js",
+  "scripts": {
+    "test": "tests/test1.js"
+  },
+  "dependencies": {
+    "canvas": "^3.1.0"
+  }
+}
